@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+# Lets tests import grid_planners and cases.py from the repository root.
+pythonpath = ["."]
+testpaths = ["tests"]
