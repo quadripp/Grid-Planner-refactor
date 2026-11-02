@@ -1,5 +1,0 @@
-numpy
-scipy
-pytest
-# Only needed because the unchanged originals in original/ import matplotlib.
-matplotlib
